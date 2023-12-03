@@ -144,4 +144,4 @@ If metaprogramming tools like metaclasses are used, they should be applied with 
 
 ### LLVM version
 
-link goes here
+![KarolaScript on LLVM](https://github.com/realbugdigger/KarolaScriptLLVM)
